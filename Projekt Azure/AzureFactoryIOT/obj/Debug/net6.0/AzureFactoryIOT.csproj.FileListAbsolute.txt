@@ -1,0 +1,120 @@
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\AzureFactoryIOT.exe
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\AzureFactoryIOT.deps.json
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\AzureFactoryIOT.runtimeconfig.json
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\AzureFactoryIOT.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\AzureFactoryIOT.pdb
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\obj\Debug\net6.0\AzureFactoryIOT.csproj.AssemblyReference.cache
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\obj\Debug\net6.0\AzureFactoryIOT.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\obj\Debug\net6.0\AzureFactoryIOT.AssemblyInfoInputs.cache
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\obj\Debug\net6.0\AzureFactoryIOT.AssemblyInfo.cs
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\obj\Debug\net6.0\AzureFactoryIOT.csproj.CoreCompileInputs.cache
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\obj\Debug\net6.0\AzureFactoryIOT.csproj.CopyComplete
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\obj\Debug\net6.0\AzureFactoryIOT.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\obj\Debug\net6.0\refint\AzureFactoryIOT.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\obj\Debug\net6.0\AzureFactoryIOT.pdb
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\obj\Debug\net6.0\AzureFactoryIOT.genruntimeconfig.cache
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\obj\Debug\net6.0\ref\AzureFactoryIOT.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\LineSettings.cs
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\lineConfiguration.json
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Azure.Core.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\DotNetty.Buffers.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\DotNetty.Codecs.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\DotNetty.Codecs.Mqtt.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\DotNetty.Common.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\DotNetty.Handlers.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\DotNetty.Transport.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Azure.Devices.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Azure.Devices.Client.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Azure.Devices.Shared.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Opc.UaFx.Client.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\System.CodeDom.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\System.Management.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\System.Memory.Data.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\System.ServiceModel.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\C#\AzureFactoryIOT\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\AzureFactoryIOT.exe
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\LineSettings.cs
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\lineConfiguration.json
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\AzureFactoryIOT.deps.json
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\AzureFactoryIOT.runtimeconfig.json
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\AzureFactoryIOT.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\AzureFactoryIOT.pdb
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\DotNetty.Buffers.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\DotNetty.Codecs.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\DotNetty.Codecs.Mqtt.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\DotNetty.Common.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\DotNetty.Handlers.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\DotNetty.Transport.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Azure.Devices.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Azure.Devices.Client.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Azure.Devices.Shared.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Opc.UaFx.Client.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\System.Management.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\obj\Debug\net6.0\AzureFactoryIOT.csproj.AssemblyReference.cache
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\obj\Debug\net6.0\AzureFactoryIOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\obj\Debug\net6.0\AzureFactoryIOT.AssemblyInfoInputs.cache
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\obj\Debug\net6.0\AzureFactoryIOT.AssemblyInfo.cs
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\obj\Debug\net6.0\AzureFactoryIOT.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\obj\Debug\net6.0\AzureFactoryIOT.csproj.CopyComplete
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\obj\Debug\net6.0\AzureFactoryIOT.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\obj\Debug\net6.0\refint\AzureFactoryIOT.dll
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\obj\Debug\net6.0\AzureFactoryIOT.pdb
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\obj\Debug\net6.0\AzureFactoryIOT.genruntimeconfig.cache
+C:\Users\Krzysiu\Desktop\Projekt Azure\AzureFactoryIOT\obj\Debug\net6.0\ref\AzureFactoryIOT.dll

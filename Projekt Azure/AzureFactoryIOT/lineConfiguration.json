@@ -1,0 +1,14 @@
+{
+  "LineConfiguration": {
+    "deviceNameRegex": "^.*device*.$",
+    "machineNodeIdRegex": "^Device[^\/]*$",
+    "readingValuesDelay": 5000,
+    "deviceMaxCount": 100,
+    "opcUAServer": "opc.tcp://localhost:4840/",
+    "connectionStrings": {
+      "device": "HostName=IoT-projekt-kw.azure-devices.net;SharedAccessKeyName=device;SharedAccessKey=ma7SZEK3dwhK49Nilgtttm8d6LwS9V96eKKqzCKbPyo=",
+      "owner": "HostName=IoT-projekt-kw.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=TDNJlQ26xkp1R6Mmb/U4MY8R5pr9fvwh4B+DY4K9bkQ="
+    }
+
+  }
+}
