@@ -9,3 +9,6 @@ Repozytorium składa się z:
 - plik lineSettings.cs - klasy do zmapowania na podstawie pliku lineCongiguration.json
 - plik Machine.cs - klasa machines, na podstawie Case Study
 - folder Enums z dwoma plikami: DeviceErrorEnum.cs i ProductionStatusEnum.cs 
+
+Dodatkowo w repezytorium znajduje się:
+- folder Analytics_Krzysztof_Wymysłowski - export z Azure Stream Analytics 
