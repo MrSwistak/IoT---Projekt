@@ -1,0 +1,80 @@
+WITH production AS (
+    SELECT
+    DeviceId,
+        SUM(CountGood) as GoodCount,
+        SUM(CountGood + CountBad) as TotalCount
+    FROM
+        input
+    GROUP BY
+        DeviceId,
+        TumblingWindow(hour, 1)
+), 
+production_percentage AS (
+    SELECT
+    DeviceId,
+        GoodCount,
+        TotalCount,
+        100.0 * GoodCount / NULLIF(TotalCount, 0) AS 'Percentage of good production'
+    FROM
+        production
+)
+SELECT
+    *
+INTO
+    productionKPI
+FROM
+    production_percentage;
+
+SELECT
+    WorkOrderId,
+    SUM(CountGood) AS 'Good Count',
+    SUM(CountBad) AS 'Bad Count'
+INTO
+    factory
+FROM
+    input
+GROUP BY
+    WorkOrderId,
+    TumblingWindow(Duration(minute, 15));
+
+
+SELECT
+    WorkOrderId,
+    MIN(Temperature) as 'Minimum Temperature',
+    MAX(Temperature) as 'Maximum Temperature',
+    AVG(Temperature) as 'Average Temperature'
+INTO
+    temperatureOutput
+FROM
+    input
+GROUP BY
+    WorkOrderId,
+    TumblingWindow(Duration(minute, 5));
+
+SELECT
+    DeviceId,
+    COUNT(*) AS ErrorCount
+INTO
+    errorsOutput
+FROM
+    input
+WHERE
+    DeviceError != 0
+GROUP BY
+    DeviceId,
+    TumblingWindow(minute, 30);
+
+SELECT
+    DeviceId,
+    COUNT(*) AS EmergencyErrors
+INTO 
+    emergencyErrorsOutput
+FROM
+    input
+WHERE
+    DeviceError != 0
+GROUP BY
+    DeviceId,
+    TumblingWindow(minute, 15)
+HAVING
+    COUNT(*) > 3;

@@ -1,0 +1,27 @@
+{
+    "Name": "temperatureOutput",
+    "DataSourceType": "Blob Storage",
+    "BlobStorageProperties": {
+        "StorageAccounts": [
+            {
+                "AccountName": "factorystorage1",
+                "AccountKey": null
+            }
+        ],
+        "Container": "temperature",
+        "PathPattern": "{date}{time}",
+        "DateFormat": "yyyy/MM/dd",
+        "TimeFormat": "HH/mm",
+        "AuthenticationMode": "Msi",
+        "BlobWriteMode": "Append"
+    },
+    "DataSourceCredentialDomain": null,
+    "Serialization": {
+        "Type": "Json",
+        "Encoding": "UTF8",
+        "Format": "LineSeparated"
+    },
+    "MinimumRows": null,
+    "MaximumTime": null,
+    "ScriptType": "Output"
+}

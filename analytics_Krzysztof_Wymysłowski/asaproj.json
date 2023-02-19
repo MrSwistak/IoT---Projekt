@@ -1,0 +1,34 @@
+{
+    "name": "analytics",
+    "startFile": "Transformation.asaql",
+    "configurations": [
+        {
+            "filePath": "JobConfig.json",
+            "subType": "JobConfig"
+        },
+        {
+            "filePath": "Outputs/emergencyErrorsOutput.json",
+            "subType": "Output"
+        },
+        {
+            "filePath": "Outputs/errorsOutput.json",
+            "subType": "Output"
+        },
+        {
+            "filePath": "Outputs/factory.json",
+            "subType": "Output"
+        },
+        {
+            "filePath": "Outputs/productionKPI.json",
+            "subType": "Output"
+        },
+        {
+            "filePath": "Outputs/temperatureOutput.json",
+            "subType": "Output"
+        },
+        {
+            "filePath": "Inputs/input.json",
+            "subType": "Input"
+        }
+    ]
+}

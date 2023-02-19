@@ -1,0 +1,20 @@
+{
+    "Name": "input",
+    "Type": "Data Stream",
+    "DataSourceType": "IoT Hub",
+    "IoTHubProperties": {
+        "IotHubNamespace": "IoT-projekt-kw",
+        "Endpoint": "messages/events",
+        "SharedAccessPolicyName": "service",
+        "SharedAccessPolicyKey": "********",
+        "ConsumerGroupName": "$Default"
+    },
+    "DataSourceCredentialDomain": "b6d89a87-357d-40ab-be18-33640e0bbc74.StreamAnalystics",
+    "Serialization": {
+        "Type": "Json",
+        "Encoding": "UTF8"
+    },
+    "PartitionKey": "",
+    "CompressionType": "None",
+    "ScriptType": "Input"
+}

@@ -1,0 +1,27 @@
+{
+    "Name": "productionKPI",
+    "DataSourceType": "Blob Storage",
+    "BlobStorageProperties": {
+        "StorageAccounts": [
+            {
+                "AccountName": "factorystorage1",
+                "AccountKey": null
+            }
+        ],
+        "Container": "kpi",
+        "PathPattern": "{date}{time}",
+        "DateFormat": "yyyy/MM/dd",
+        "TimeFormat": "HH/mm",
+        "AuthenticationMode": "Msi",
+        "BlobWriteMode": "Once"
+    },
+    "DataSourceCredentialDomain": null,
+    "Serialization": {
+        "Type": "Json",
+        "Encoding": "UTF8",
+        "Format": "LineSeparated"
+    },
+    "MinimumRows": null,
+    "MaximumTime": null,
+    "ScriptType": "Output"
+}
